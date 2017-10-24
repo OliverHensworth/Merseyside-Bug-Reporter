@@ -1,1 +1,1 @@
-worker = node Main.js --harmony
+worker = node . --harmony
