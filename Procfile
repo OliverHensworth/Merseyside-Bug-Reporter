@@ -1,1 +1,1 @@
-worker = node . 
+start=node . 
