@@ -4,10 +4,15 @@
   "description": "",
   "main": "Main.js",
   "scripts": {
-    "start": "node Main.js --harmony"
+    "start": "node ."
   },
   "author": "",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OliverHensworth/Merseyside-Bug-Reporter/"
+  },
+  
   "engines": {
     "node": ">=8"
    },
