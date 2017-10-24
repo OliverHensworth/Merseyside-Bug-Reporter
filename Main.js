@@ -23,4 +23,4 @@ client.registry
     // Registers all of your commands in the ./commands/ directory
     .registerCommandsIn(path.join(__dirname, 'commands'));
 
-client.login(config.TOKEN);
+client.login(process.env.TOKEN);
